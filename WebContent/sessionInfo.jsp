@@ -7,6 +7,7 @@
 	Date time = new Date();
 	SimpleDateFormat formatter=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 %>
+
 <!DOCTYPE html>
 <html>
 <head>
